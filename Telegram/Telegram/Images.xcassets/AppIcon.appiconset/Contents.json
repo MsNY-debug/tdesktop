@@ -56,7 +56,7 @@
     },
     {
       "size" : "512x512",
-      "idiom" : "mac",
+      "idiom" : "gmac",
       "filename" : "icon512@2x.png",
       "scale" : "2x"
     }
